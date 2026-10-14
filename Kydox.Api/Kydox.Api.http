@@ -1,0 +1,6 @@
+@Kydox.Api_HostAddress = http://localhost:5113
+
+GET {{Kydox.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

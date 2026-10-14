@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Kydox.Api/Kydox.Api.csproj" />
+  <Project Path="Kydox.Application/Kydox.Application.csproj" />
+  <Project Path="Kydox.Domain/Kydox.Domain.csproj" />
+  <Project Path="Kydox.Infrastructure/Kydox.Infrastructure.csproj" />
+</Solution>
